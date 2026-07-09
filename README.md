@@ -1,1 +1,2 @@
 # JDBS
+Simple JDBC program
